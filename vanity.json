@@ -2,6 +2,7 @@
   "domain": "go.hung.rocks",
   "packages": [
     { "suffix": "vanityimport", "repo": "github.com/hungtrd/vanityimport" },
-    { "suffix": "stickhero", "repo": "github.com/hungtrd/stickhero" }
+    { "suffix": "stickhero", "repo": "github.com/hungtrd/stickhero" },
+    { "suffix": "x", "repo": "github.com/hexgate/x" },
   ]
 }
